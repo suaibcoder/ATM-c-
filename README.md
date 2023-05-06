@@ -1,2 +1,2 @@
 # ATM-c-
-This atm softwere is made for c++
+This atm softwere is made from c++
